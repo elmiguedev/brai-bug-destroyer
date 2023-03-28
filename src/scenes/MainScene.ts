@@ -7,5 +7,6 @@ export class MainScene extends Scene {
 
   create() {
     this.add.text(100, 100, "HOLIS");
+    this.cameras.main.setBackgroundColor(0x187263)
   }
 }
