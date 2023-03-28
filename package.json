@@ -1,0 +1,15 @@
+{
+  "name": "brai-bug-destroyer",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "serve": "vite preview"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.2",
+    "vite": "^4.2.1"
+  },
+  "dependencies": {
+    "phaser": "^3.55.2"
+  }
+}
