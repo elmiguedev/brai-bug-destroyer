@@ -53,6 +53,25 @@ Luego de un tiempo avanzando aparecen grandes bugs que estan para molestar todo 
 
 Demo time es
 
+## Power ups
+
+**Gato negro**
+
+Es la mascota de Brai que siempre aparece de forma random par ayudarlo a matar algunos bugs
+
+**Code Reviews**
+
+Cuando usas un code review, desaparecen los bugs de la pantalla
+
+**Commits** 
+
+Pequeños logos de Git dando vuelta por la pantalla. Cuando juntas los suficiente, tenes como un power up temporal (MR) que hace que dispares mas y pegues mas fuerte
+
+**Uncle bob**
+
+Uncle bob aparece flotando, cuando lo agarras, te da un power up permanente, que mejora tu arma
+
+
 
 ## Ideas extra 
 
