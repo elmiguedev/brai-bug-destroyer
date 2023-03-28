@@ -12,6 +12,9 @@
     "sourceMap": true,
     "resolveJsonModule": true,
     "esModuleInterop": true,
+    "types": [
+      "vite/client"
+    ],
     "noEmit": true,
     "noUnusedLocals": true,
     "noUnusedParameters": true,
