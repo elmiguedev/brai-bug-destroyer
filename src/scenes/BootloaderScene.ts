@@ -1,5 +1,9 @@
 import { Scene } from "phaser";
-import BraianLowResPng from "../assets/img/braian-low-res.png";
+import BraiPng from "../assets/img/brai.png";
+import BulletPng from "../assets/img/bullet.png";
+import BugPng from "../assets/img/bug.png";
+import glitchPng from "../assets/img/glitch.png";
+
 
 export class BootloaderScene extends Scene {
   constructor() {
@@ -7,7 +11,11 @@ export class BootloaderScene extends Scene {
   }
 
   preload() {
-    this.load.image("braian-low-res", BraianLowResPng)
+    this.load.image("brai", BraiPng)
+    this.load.image("bullet", BulletPng)
+    this.load.image("bug", BugPng)
+    this.load.image("glitch", glitchPng)
+
     this.load.on("complete", () => {
       this.scene.start("StartScene");
     })

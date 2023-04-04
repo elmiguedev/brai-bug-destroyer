@@ -76,4 +76,9 @@ Uncle bob aparece flotando, cuando lo agarras, te da un power up permanente, que
 ## Ideas extra 
 
 - bugs de distintos color con distintas capacidades
+- para no permitir que haga balas todo el tiempo, hay una barra que cuando se llena, hace burnout y se le quema la pistola por un rato
 
+
+## Mejoras
+
+- los HUD deberían "observar" a las entidades y mostrar esa info (haciendo uso del update)
